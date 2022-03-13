@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alain Fernández Miguel</h1>
-<h3 align="center">Computer Engineer EHU</h3>
+<h1 align="center">Alain Fernández Miguel</h1>
+<h3 align="center">Computer Engineer</h3>
 <p align="left">
 </p>
 
